@@ -1,0 +1,19 @@
+body {
+  font-family: 'Alice', serif;
+  font-family: 'Arima Madurai', cursive;
+}
+
+h1 {
+  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+  font-size: 3em;
+  line-height: 1.5;
+}
+
+.purple {
+  color: rgb(62, 8, 62);
+}
+
+#id {
+  text-shadow: 2px 2px 5px rgb(50, 15, 15);
+}
+/* ctrl and forward slash at the same time for comments */
